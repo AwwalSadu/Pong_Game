@@ -1,8 +1,8 @@
 # Pong_Game
-Simple Pong game made with Ursina game engine in Python. Currently not done with it, Planning on making a multiplayer server 
-Contains Some bugs .... Can as well help with the code :)
+Simple Pong game made with Ursina game engine in Python. Currently not done with it, Planning on making a multiplayer server,
+Currently contains Some bugs .... You can as well help with the code :)
 
-#If game doesn't work 
+# If game doesn't work 
 
 Try installing python 
 
